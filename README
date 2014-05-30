@@ -1,0 +1,11 @@
+Beatbased project
+-----------------
+
+To use, download beatbased project to some directory - say 'mydirectory'
+
+Then add 'mydirectory/lib' to your python path and then (for example):
+
+>>> import seqence
+>>> s = beatsequence.Sequence(1234)
+
+
